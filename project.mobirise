@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "test2",
-    "currentPage": "index.html",
+    "currentPage": "www.getpaideveryweek.wscgcpp.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -271,6 +271,14 @@
           "_anchor": "image3-2"
         }
       ]
+    },
+    "www.getpaideveryweek.wscgcpp.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "car",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
